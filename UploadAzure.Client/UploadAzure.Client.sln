@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UploadAzure.Client", "UploadAzure.Client\UploadAzure.Client.csproj", "{BDAAA542-14F4-4DE0-ADA2-D46F0A0FD9EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDAAA542-14F4-4DE0-ADA2-D46F0A0FD9EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDAAA542-14F4-4DE0-ADA2-D46F0A0FD9EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDAAA542-14F4-4DE0-ADA2-D46F0A0FD9EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDAAA542-14F4-4DE0-ADA2-D46F0A0FD9EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B73F302A-0F6D-4424-A1A2-EFD152E8CF92}
+	EndGlobalSection
+EndGlobal
